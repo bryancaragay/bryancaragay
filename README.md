@@ -1,7 +1,7 @@
 # Hi there I'm Bryan👋
 
 ### 🤠 About Me
-I'm a software developer with a passion for entrepreneurship. I've started (and failed) multiple companies, won $16,250 in pitch compeitions, designed my own apps from start to finish, and developed those apps to production on the app store.
+I'm a software developer with a passion for entrepreneurship. I've started multiple companies, won $16,250 in pitch compeitions, designed my own apps from start to finish, and developed those apps to production on the app store.
 Some of the app spaces i've worked in:
 - Campus safety
 - Fitness
