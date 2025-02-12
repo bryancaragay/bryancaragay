@@ -6,6 +6,7 @@ Some of the app spaces i've worked in:
 - Campus safety
 - Fitness
 - B2B communication
+- Ed tech
 
 Overall, I have a passion for making software that people love. Implementation and details are important to me, but the end experience for the customer is what I think is the most important aspect of any software.
 
